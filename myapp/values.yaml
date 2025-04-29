@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: 266735804797.dkr.ecr.us-east-2.amazonaws.com/demo1/blue
-  tag: latest
+  tag: latest1
   pullPolicy: IfNotPresent
 
 service:
